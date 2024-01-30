@@ -8,12 +8,12 @@ Welcome to the Rock, Paper, Scissors game! This simple console-based game allows
 
 1. **Getting Started:**
    - Make sure you have Python installed on your machine.
-   - Download the `rock_paper_scissors.py` file from this repository.
+   - Download the `rock_paper_scisor.py` file from this repository.
 
 2. **Run the Game:**
    - Open a terminal or command prompt.
-   - Navigate to the directory where `rock_paper_scissors.py` is located.
-   - Run the command: `python rock_paper_scissors.py`
+   - Navigate to the directory where `rock_paper_scisor.py` is located.
+   - Run the command: `python rock_paper_scisor.py`
 
 3. **Game Rules:**
    - Choose either Rock, Paper, or Scissors.
